@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+client/dist/
+server/dist/
+
+# Runtime data & uploads
+server/data/
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Env & secrets (NEVER commit secrets or Play Store keystores!)
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# Android build artifacts
+client/android/.gradle/
+client/android/build/
+client/android/app/build/
+client/android/local.properties
+client/android/capacitor-cordova-android-plugins/
+
+# OS & logs
+.DS_Store
+*.log
+coverage/

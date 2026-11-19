@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MONO</string>
+    <string name="title_activity_main">MONO</string>
+    <string name="package_name">com.mono.social</string>
+    <string name="custom_url_scheme">com.mono.social</string>
+</resources>

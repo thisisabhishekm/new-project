@@ -3,6 +3,19 @@
   "name": "I want to create my own",
   "createdAt": "2026-11-19T00:32:37.301Z",
   "filename": "ec40950c-56ac-4d14-9f91-cd6e2a80f0ee.json",
-  "geminiStarted": false,
-  "messages": []
+  "geminiStarted": true,
+  "messages": [
+    {
+      "id": "53f1febd-88dc-4863-84af-26a5691b9492",
+      "role": "user",
+      "content": "I want to create my own social media application like i stagram but it will have dofferent features like there will be no options for reels no one can see anyones followers or following list only my account will have a blue tick in it and all the basic stuff last seen active stories tags locations and also add a feature like every message gets erased after a month add features like people can split the bills as well in a group and keep it minimal whole ui’s coloyr will be black and white it should follow apples deaign pronciples. Act as a super senior tech developer and build an app for that and publish it to play store before doing so do all the secutity checks breaches and quality control before publishing it to the playstore and locking in. Also tell me if there is any scope of improvement in this idea and also keep it simple",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-19T00:33:10.586Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
